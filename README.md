@@ -13,6 +13,6 @@ Usage
   The private key could be provided with this file:
   https://raw.githubusercontent.com/ivan7farre/vagrant-aws-linux-RoR/master/deploy/files/id_rsa
 * After running ``` cap staging setup:all ``` the rest_api application will be deployed and accessible 
-* Modify puppet recipes as you wish
+* Modify capistrano recipes as you wish
 * Show capistrano tasks using ``` cap -T ```
 
